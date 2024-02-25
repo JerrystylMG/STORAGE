@@ -1,0 +1,17 @@
+    {
+      "name": "Command 1",
+      "description": "move forward",
+      "function": "Drives robot forward",
+      "link": "https://res.cloudinary.com/dk3qcy1al/image/upload/v1708356747/SRCG/motor-forward.png"
+    },
+    {
+      "name": "Command 2",
+      "description": "move backward",
+      "function": "Moves robot backward",
+      "link": "https://res.cloudinary.com/dk3qcy1al/image/upload/v1708356817/SRCG/motor-backwards.png"
+    },
+    {
+      "name": "Command 3",
+      "description": "self destruct",
+      "function": "self destructs robot"
+    }
